@@ -7,9 +7,9 @@
   📍 University Opet - Curitiba, Brazil
 </p>
 
-<h2  align="left">About me. </h2>
+<h2 align="center">About me.</h2>
 
-- 👨‍💻 I'm currently learning data analysis and development, with a preference for data science.
+- 👩🏻‍💻 I'm currently learning data analysis and development, with a preference for data science.
 
 - 🔭 Graduated in Administration by the UFPR - PR.
 
