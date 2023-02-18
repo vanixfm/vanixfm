@@ -2,14 +2,14 @@
 <h2 align="center">Hello, welcome to my profile !</h2>
 
 <p align='center'>
-  Data Scientist in training.</br>
+  Dev in training.</br>
   📆 2022 - 2024 </br>
   📍 University Opet - Curitiba, Brazil
 </p>
 
 <h2 align="center">About me.</h2>
 
-- 👩🏻‍💻 I'm currently learning data analysis and development, with a preference for data science.
+- 👩🏻‍💻 I'm currently learning data analysis and development.
 
 - 🔭 Graduated in Administration by the UFPR - PR.
 
