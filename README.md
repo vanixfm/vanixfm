@@ -44,6 +44,9 @@
 <a href="https://www.oracle.com/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" width="50" height="50" title="ORACLE"/> 
 </a>
+<a href="https://www.python.org/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="50" height="50" title="PYTHON"/> 
+</a>
 
 <h2  align="center">📫 How to reach me</h2>
 <div align="center">
