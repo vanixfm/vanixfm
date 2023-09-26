@@ -11,6 +11,8 @@
 
 - 👩🏻‍💻 I'm currently learning data analysis and development.
 
+- 💻 In progress data analysis and development by OPET - PR.
+
 - 🔭 Graduated in Administration by the UFPR - PR.
 
 - ⚡ Fun fact: I love to study; I love traveling and collecting maps.</br>
