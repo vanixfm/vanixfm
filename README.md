@@ -2,7 +2,7 @@
 <h2 align="center">Hello, welcome to my profile !</h2>
 
 <p align='center'>
-  Dev in training.</br>
+  Dev.</br>
   📆 2022 - 2024 </br>
   📍 University Opet - Curitiba, Brazil
 </p>
